@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arianna</h1>
 <h3 align="center">I'm a Computer Science Engineer from Pescara, Italy, passionate about Cybersecurity and Software Engineering.</h3>
 
-- 📫 Take a look at my Linkedin page **https://www.linkedin.com/in/arianna-agresta/**
+- 📫 Take a look at my Linkedin page: **https://www.linkedin.com/in/arianna-agresta/**
 
-- 📄 Know about my experiences [I worked on a lot of projects including OOP, databases, software engineering, Web technologies, blockchain technologies, and so on...](I worked on a lot of projects including OOP, databases, software engineering, Web technologies, blockchain technologies, and so on...)
+- 📄 Know about my experiences: **I worked on a lot of projects including OOP, databases, software engineering, Web technologies, blockchain technologies, and so on...**
 
-- ⚡ Fun fact **I'm a huge football fan, rock-punk-metal listener, TV series binge-watcher and games addicted.**
+- ⚡ Fun fact: **I'm a huge football fan, rock-punk-metal listener, TV series binge-watcher and games addicted.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
